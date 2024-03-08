@@ -1,0 +1,7 @@
+- uses: geode-sdk/build-geode-mod@main
+  id: build
+
+- uses: actions/upload-artifact@v3
+  with:
+    name: My mod
+    path: ${{ steps.build.outputs.build-output }}
