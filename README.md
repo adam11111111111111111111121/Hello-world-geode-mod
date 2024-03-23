@@ -1,3 +1,3 @@
 # helloworld
 
-This is where she makes a mod.
+This is "default"/placeholder/T-pose Mod.
