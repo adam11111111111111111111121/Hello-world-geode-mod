@@ -1,3 +1,3 @@
 # helloworld
 
-This is "default"/placeholder/T-pose Mod.
+This is "default"/placeholder/T-pose Geode Mod.
